@@ -1,0 +1,42 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "vinyl/vinyl.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp-tslint/gulp-tslint.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp-typescript/gulp-typescript.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp/gulp.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "node/node.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "glob/glob.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "minimatch/minimatch.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "chai/chai.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp-mocha/gulp-mocha.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp-istanbul/gulp-istanbul.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    }
+  }
+}

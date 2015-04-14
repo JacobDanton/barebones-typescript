@@ -1,0 +1,23 @@
+{
+    "version": "1.4.1",
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": false,
+        "noLib": false,
+        "outDir": "build"
+    },
+    "filesGlob": [
+        "gulpfile.ts",
+        "./src/**/*.ts",
+        "./test/**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "gulpfile.ts",
+        "./src/index.ts",
+        "./test/indexTest.ts"
+    ]
+}
